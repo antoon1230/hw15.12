@@ -1,5 +1,4 @@
 'use strict';
-alert(1+1);
 
 const btn = document.querySelector('button');
 btn.addEventListener('click', () =>{
